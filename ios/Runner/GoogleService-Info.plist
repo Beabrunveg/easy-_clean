@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>856553563215-m8e4ngfccppdt16pv2163ngsknfa0s34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.856553563215-m8e4ngfccppdt16pv2163ngsknfa0s34</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0WjyUYDRvk9bElpD9WCCMAZN-Qiq6A94</string>
+	<key>GCM_SENDER_ID</key>
+	<string>856553563215</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eca.easyCleanApp</string>
+	<key>PROJECT_ID</key>
+	<string>cleantask-4e500</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cleantask-4e500.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:856553563215:ios:64cb921fdea9b1dba0b63a</string>
+</dict>
+</plist>

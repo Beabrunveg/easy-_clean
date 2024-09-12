@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "856553563215",
+    "project_id": "cleantask-4e500",
+    "storage_bucket": "cleantask-4e500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856553563215:android:16685f5db9cde25ea0b63a",
+        "android_client_info": {
+          "package_name": "com.eca.easy_clean_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856553563215-nt7gbi6pvsn2vjsht5hrlig416voggfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xUxm6JqtwWhTtV2AAR3Tqm5bT96Yb04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856553563215-nt7gbi6pvsn2vjsht5hrlig416voggfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856553563215-cedm2t5htk10tn8k5e8e3lfe57gtcg3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eca.easyCleanAppDev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856553563215:android:ec45f40471683b89a0b63a",
+        "android_client_info": {
+          "package_name": "com.eca.easy_clean_app_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856553563215-nt7gbi6pvsn2vjsht5hrlig416voggfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xUxm6JqtwWhTtV2AAR3Tqm5bT96Yb04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856553563215-nt7gbi6pvsn2vjsht5hrlig416voggfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856553563215-cedm2t5htk10tn8k5e8e3lfe57gtcg3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eca.easyCleanAppDev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

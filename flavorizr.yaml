@@ -1,0 +1,19 @@
+flavors:
+  dev:
+    app:
+      name: "Easy clean App Dev"
+    android:
+      applicationId: "com.eca.easy_clean_app_dev"
+      icons: ".asets/img/app/app_icon.png"
+    ios:
+      bundleId: "com.eca.easyCleanAppDev"
+      icons: "assets/img/app/app_icon.png"
+  prod:
+    app:
+      name: "Easy Clean App"
+    android:
+      applicationId: "com.eca.easy_clean_app"
+      icons: "assets/img/app/app_icon.png"
+    ios:
+      bundleId: "com.eca.easyCleanApp"
+      icons: "assets/img/app/app_icon.png"
